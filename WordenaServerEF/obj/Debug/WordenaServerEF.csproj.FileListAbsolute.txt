@@ -1,0 +1,39 @@
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.exe.config
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.exe
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.pdb
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.dll
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.xml
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.csprojResolveAssemblyReference.cache
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.exe
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.pdb
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.InitialCreate.resources
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.csproj.GenerateResource.Cache
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations._123.resources
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.AddCharTable.resources
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\Newtonsoft.Json.dll
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaData.dll
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaData.pdb
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\Newtonsoft.Json.xml
+c:\users\djerico\documents\visual studio 2013\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.AddPhrasesClass.resources
+C:\Users\Djerico\Documents\Visual Studio 2013\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\AsyncClientServer.dll
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.exe.config
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.exe
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.pdb
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.exe
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaServerEF.pdb
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.dll
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\Newtonsoft.Json.dll
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaData.dll
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\WordenaData.pdb
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.xml
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\bin\Debug\Newtonsoft.Json.xml
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.csprojResolveAssemblyReference.cache
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.InitialCreate.resources
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations._123.resources
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.AddCharTable.resources
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.Migrations.AddPhrasesClass.resources
+D:\Djerico\Projects\WordenaServerEF\WordenaServerEF\obj\Debug\WordenaServerEF.csproj.GenerateResource.Cache
